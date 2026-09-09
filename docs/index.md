@@ -32,10 +32,4 @@ features:
 
 Das Passwort finden Sie auf der Seite „Mehr Informationen online“ in Ihrer Buchausgabe. Die Leseprobe ist frei zugänglich.
 
-## Die Buchausgabe
-
-Der direkte Amazon-Link wird hier ergänzt, sobald die Buchausgabe gelistet ist.
-
-[Zum öffentlichen GitHub-Repository](https://github.com/rmdroid/skills-die-geld-verdienen)
-
 </div>
