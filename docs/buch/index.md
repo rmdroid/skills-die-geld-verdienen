@@ -1,0 +1,42 @@
+---
+protected: true
+---
+# Das Buch online
+
+Robert Meyer · Erste Auflage, September 2026
+
+- [Vorwort](/buch/vorwort)
+- [Einleitung](/buch/einleitung)
+- [Teil I – Skills verstehen und richtig nutzen](/buch/teil-1)
+- [1. Was ein KI-Skill ist – und was er leisten kann](/buch/kapitel-1)
+- [2. Wie Skills wirtschaftlichen Nutzen schaffen](/buch/kapitel-2)
+- [3. Die passende Arbeitsumgebung vorbereiten](/buch/kapitel-3)
+- [4. Vom GitHub-Link zum ersten brauchbaren Ergebnis](/buch/kapitel-4)
+- [5. Skills im Alltag sicher und wirksam bedienen](/buch/kapitel-5)
+- [Teil II – Abläufe auswählen und Skills anpassen](/buch/teil-2)
+- [6. Welche Workflows einen Skill verdienen](/buch/kapitel-6)
+- [7. So ist ein guter Skill aufgebaut](/buch/kapitel-7)
+- [8. Vorhandene Skills an das eigene Unternehmen anpassen](/buch/kapitel-8)
+- [9. Skills testen und verlässlich verbessern](/buch/kapitel-9)
+- [Teil III – Zwölf Skills für die betriebliche Praxis](/buch/teil-iii)
+- [10. Kundenanfragen klären und den Auftrag abgrenzen](/buch/kapitel-10)
+- [11. Angebote aus Briefings und Gesprächsnotizen vorbereiten](/buch/kapitel-11)
+- [12. Kundengespräche gezielt vorbereiten](/buch/kapitel-12)
+- [13. Besprechungen in Aufgaben und Entscheidungen übersetzen](/buch/kapitel-13)
+- [14. Kundenfeedback zu belastbaren Erkenntnissen verdichten](/buch/kapitel-14)
+- [15. Projektstände in verständliche Berichte verwandeln](/buch/kapitel-15)
+- [16. Prozesse dokumentieren und Arbeitsanweisungen erstellen](/buch/kapitel-16)
+- [17. Einarbeitung mit klaren Lernzielen planen](/buch/kapitel-17)
+- [18. Kundenkommunikation und Reklamationen bearbeiten](/buch/kapitel-18)
+- [19. Fachwissen in Marketinginhalte verwandeln](/buch/kapitel-19)
+- [20. Lieferantenangebote vergleichbar machen](/buch/kapitel-20)
+- [21. Kennzahlenabweichungen verständlich erklären](/buch/kapitel-21)
+- [Teil IV – Aus einzelnen Skills betriebliche Praxis machen](/buch/teil-iv)
+- [22. Skills zu durchgängigen Arbeitsabläufen verbinden](/buch/kapitel-22)
+- [23. Skills im Unternehmen verantwortlich betreiben](/buch/kapitel-23)
+- [24. Wirtschaftlichkeit messen und Leistungen kalkulieren](/buch/kapitel-24)
+- [25. Der 30-Tage-Plan für den ersten produktiven Skill](/buch/kapitel-25)
+- [Anhang A – Glossar](/buch/glossar)
+- [Anhang B – Checklisten und Arbeitsvorlagen](/buch/checklisten)
+- [Anhang C – Übersicht der Skill-Sammlung](/buch/skill-uebersicht)
+- [Quellen und weiterführende Literatur](/buch/quellen)

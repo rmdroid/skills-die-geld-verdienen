@@ -1,0 +1,110 @@
+[
+  {
+    "chapter": 10,
+    "skill": "business-problem-framing",
+    "repository": "45ck/business-analysis-skills",
+    "commit": "4eedd98f84c7546d56ea6aab077e3846767e758a",
+    "path": "workflows/business-problem-framing/SKILL.md",
+    "url": "https://github.com/45ck/business-analysis-skills/blob/4eedd98f84c7546d56ea6aab077e3846767e758a/workflows/business-problem-framing/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 11,
+    "skill": "contract-and-proposal-writer",
+    "repository": "alirezarezvani/claude-skills",
+    "commit": "19392f7a08264ed00486a251f5b2098321771f94",
+    "path": "business-growth/skills/contract-and-proposal-writer/SKILL.md",
+    "url": "https://github.com/alirezarezvani/claude-skills/blob/19392f7a08264ed00486a251f5b2098321771f94/business-growth/skills/contract-and-proposal-writer/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 12,
+    "skill": "call-prep",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "sales/skills/call-prep/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/sales/skills/call-prep/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 13,
+    "skill": "call-summary",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "sales/skills/call-summary/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/sales/skills/call-summary/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 14,
+    "skill": "synthesize-research",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "product-management/skills/synthesize-research/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/product-management/skills/synthesize-research/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 15,
+    "skill": "status-report",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "operations/skills/status-report/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/operations/skills/status-report/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 16,
+    "skill": "process-doc",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "operations/skills/process-doc/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/operations/skills/process-doc/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 17,
+    "skill": "onboarding",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "human-resources/skills/onboarding/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/human-resources/skills/onboarding/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 18,
+    "skill": "draft-response",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "customer-support/skills/draft-response/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/customer-support/skills/draft-response/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 19,
+    "skill": "draft-content",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "marketing/skills/draft-content/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/marketing/skills/draft-content/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 20,
+    "skill": "vendor-review",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "operations/skills/vendor-review/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/operations/skills/vendor-review/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  },
+  {
+    "chapter": 21,
+    "skill": "variance-analysis",
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "1f517b9de47e827c80cd933ed364e16838072239",
+    "path": "finance/skills/variance-analysis/SKILL.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/1f517b9de47e827c80cd933ed364e16838072239/finance/skills/variance-analysis/SKILL.md",
+    "status": "Original gelesen; Ausführung und Buchpaket noch ungeprüft"
+  }
+]
