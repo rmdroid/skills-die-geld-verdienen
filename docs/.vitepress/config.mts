@@ -10,6 +10,5 @@ export default defineConfig({
     outline: { label: 'Auf dieser Seite', level: [2,3] },
     docFooter: { prev: 'Zurück', next: 'Weiter' },
     footer: { message: '<a href="/skills-die-geld-verdienen/impressum.html">Impressum</a> · <a href="/skills-die-geld-verdienen/datenschutz.html">Datenschutz</a>', copyright: '© Robert Meyer, 2026' },
-    socialLinks: [{icon:'github',link:'https://github.com/rmdroid/skills-die-geld-verdienen'}]
   }
 })
