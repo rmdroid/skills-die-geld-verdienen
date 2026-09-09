@@ -8,6 +8,9 @@ hero:
     src: /cover.jpg
     alt: Buchcover Skills, die Geld verdienen von Robert Meyer
   actions:
+    - theme: alt
+      text: Buch bei Amazon
+      link: https://www.amazon.de/dp/B0HJB22SB3
     - theme: brand
       text: Buch online lesen
       link: /buch/
